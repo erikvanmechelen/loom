@@ -52,6 +52,8 @@ How does Loom approach product? Which workflows are working? I sense that Loom a
 
 What is the current relationship between teams at Loom? How are decisions made? 
 
+How has the decision to raise additional venture capital affected Loom's goals?
+
 I want to hear some stories that encapsulate your definition of 'weird'.
 
 ## For Reference
