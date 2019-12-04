@@ -26,7 +26,7 @@ As a PM with Loom, I believe my interpersonal skills, ability to create producti
 
 ### The Challenges Loom Faces, And Why I'm Energized
 
-Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to](https://vimeo.com/259389911/c56dfaac57), communicate with, and continually help our members reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out.
+Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to](https://vimeo.com/259389911/c56dfaac57), communicate with, and continually help our members reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
 
 Here's an important question: Can we improve our conversion of freemium members to premium subscription members?
 
