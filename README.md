@@ -1,5 +1,17 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
+Loom describes itself this way: A new kind of work communication tool that helps you get your message across through instantly shareable video.
+
+A new kind of work communication tool that helps you get your message across through instantly shareable video.
+
+Here's its mission: 
+
+We're on a mission to
+enhance work communication
+and bring back its humanity
+
+bring human back in..
+
 Loom has great potential and its team is proven. 
 
 Having read almost everything that is public about Loom on the net, I like: 
