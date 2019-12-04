@@ -4,6 +4,14 @@
 
 After the Product Review, Roadmap, etc. etc., I share a few thoughts about why I might be the best person for this role and also to fit into your existing team at Loom
 
+After...... we'll talk about Security & Collaboration, two top priorities in the near term if Loom is going to be the go-to communication app for companies. 
+
+I thought you might be worried...about the security...of your shit. 
+
+And something funny about collaboration. 
+
+^^ this shows my sense of humor 
+
 ## Get to Know You (and Me)
 
 I kick off my review of Loom with:
