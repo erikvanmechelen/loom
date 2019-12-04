@@ -16,9 +16,9 @@ Said another way: Information passes from me to my audience more efficiently and
 
 Now that I've shared how I see Loom as a customer, let's move on. 
 
-CONGRATS on the Series B. It definitely seems like Loom is in a good position to make communication more human, at scale.
+CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
 
-Loom has improved my workflow by saving time and making communication at work fun! The core product and the pro features have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called Octalysis Prime. 
+Loom has improved my workflow by saving time and making communication at work fun! The core product and the [pro features](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called [Octalysis Prime](https://island.octalysisprime.com/#!/signup). 
 
 With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. 
 
