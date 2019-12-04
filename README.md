@@ -1,5 +1,11 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
+First off. Congrats on the Series B. It definitely seems like Loom is in a good position to make communication more human.
+
+For over 2.5 years Loom has improved my workflow by saving time and making communication at work fun! The core product and the pro features have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called Octalysis Prime. With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. 
+
+As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech ... make Loom what it could be. Everything it can be. 
+
 Loom describes itself this way: A new kind of work communication tool that helps you get your message across through instantly shareable video.
 
 A new kind of work communication tool that helps you get your message across through instantly shareable video.
