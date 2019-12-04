@@ -48,7 +48,7 @@ Let's make this audacious goal a reality.
 
 ## A Few Questions
 
-How does Loom approach product? What is the current workflow between teams. I sense that Loom approaches Product cross-functionally. Can you share more?
+How does Loom approach product? Which workflows are working? I sense that Loom approaches Product cross-functionally. Can you share more?
 
 What is the current relationship between teams at Loom? How are decisions made? 
 
@@ -73,7 +73,7 @@ What follows are a few short videos I made which speak for themselves.
 
 ## Thank you
 
-I appreciate you taking the time to review this page and my thoughts and questions about the PM role. 
+I appreciate you taking the time to review my thoughts and questions about the PM role. 
 
 
 
