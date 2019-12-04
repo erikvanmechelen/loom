@@ -44,13 +44,16 @@ optional part 4 there...
 
 Enabling & Enticing Companies (eventually, the Enterprise customer)
 
-Security
+[Security](https://www.loom.com/share/08fcd6cf03fc47fdb6e14591104ae418)
 
 <div style="position: relative; padding-bottom: 48.8479262672811%; height: 0;"><iframe src="https://www.loom.com/embed/08fcd6cf03fc47fdb6e14591104ae418" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-Collaboration
+[Collaboration](https://www.loom.com/share/c369c55bef7c40d79d34c32bafcb42a0)
 
+<div style="position: relative; padding-bottom: 53.664596273291934%; height: 0;"><iframe src="https://www.loom.com/embed/c369c55bef7c40d79d34c32bafcb42a0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Zach has noticed the power of Figma. What if Figma and Loom ... ?
 
 ## Where Loom's team has decided they will go
 
