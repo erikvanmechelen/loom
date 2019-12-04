@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Erik van Mechelen's Loom Product Review
 
 You can use the [editor on GitHub](https://github.com/erikvanmechelen/loom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
