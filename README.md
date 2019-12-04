@@ -12,7 +12,7 @@ But in business, showing AND telling is best.
 
 That's why I've been using Loom for almost three years. 
 
-Said another way: Information passes from me to my audience more efficiently and more persuasively.
+Said another way: Information passes from me to my audience more efficiently and more persuasively. 
 
 Now that I've shared how I see Loom as a customer, let's move on. 
 
