@@ -1,5 +1,9 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
+Having read almost everything that is public about Loom on the net, I like: 
+
+That Loom builds product cross-functionally (vs stacked) and that there appears to be solid inter-team communication, even with a remote and distributed team. 
+
 to style it, feel free to use inline css <span style="color:red">let's go</span>
 
 [This Folder](https://loom.com/share/folder/d198ed4f3a874c698419309a424eec02) contains all the Looms I made for my product review.
