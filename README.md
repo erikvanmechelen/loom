@@ -1,5 +1,7 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
+Loom has great potential and its team is proven. 
+
 Having read almost everything that is public about Loom on the net, I like: 
 
 That Loom builds product cross-functionally (vs stacked) and that there appears to be solid inter-team communication, even with a remote and distributed team. 
