@@ -8,7 +8,7 @@ If you only do one thing on this page, [watch this video](https://www.loom.com/s
 
 Conventional creative writing advice is "Show, don't tell". 
 
-But in business, showing AND telling is best.  
+But in business, showing AND telling is best. 
 
 That's why I've been using Loom for almost three years. 
 
