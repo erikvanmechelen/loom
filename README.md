@@ -2,6 +2,8 @@
 
 [This Folder](https://loom.com/share/folder/d198ed4f3a874c698419309a424eec02) contains all the Looms I made for my product review.
 
+After the Product Review, Roadmap, etc. etc., I share a few thoughts about why I might be the best person for this role and also to fit into your existing team at Loom
+
 ## Get to Know You (and Me)
 
 I kick off my review of Loom with:
