@@ -1,5 +1,57 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
+[This Folder](https://loom.com/share/folder/d198ed4f3a874c698419309a424eec02) contains all the Looms I made for my product review.
+
+## Get to Know You (and Me)
+
+I kick off my review of Loom with:
+
+[This Intro beneath my wooden loft](https://www.loom.com/share/648bb00f2f8445fca27a0f2cf8ce7722)
+
+Can I embed these? 
+
+<div style="position: relative; padding-bottom: 56.33802816901409%; height: 0;"><iframe src="https://www.loom.com/embed/648bb00f2f8445fca27a0f2cf8ce7722" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+end sample
+
+[A view of the Minneapolis skyline](https://www.loom.com/share/bb371925bf9b4e2688c043f6fc0a049e) 
+
+[3 Things I Love About Loom](https://www.loom.com/share/df08890762784498a86d60e66a6d37f3) (and why I've used it for 2.5 years)
+
+optional part 4 there...
+
+## Resume section (hint at and then put at the end!) use internal links, if they want to jump there! with # hashtags
+
+## History of Loom
+
+
+## Where Loom is right now in the Video Landscape
+
+
+## Where Loom's team has decided they will go
+
+-enterprise
+
+big series b, $30 mill, gotta make value now
+
+## Analysis of Loom's public roadmaps
+
+on the site
+
+vinay's on notion 
+
+## A short aside to comment on lessons learned
+
+from vinay
+
+## Business, Technology, Design
+
+these three come together as a PM 
+
+make some interesting comments. 
+
+
+
 You can use the [editor on GitHub](https://github.com/erikvanmechelen/loom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
