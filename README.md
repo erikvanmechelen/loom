@@ -52,7 +52,7 @@ How does Loom approach product? Which workflows are working? I sense that Loom a
 
 What is the current relationship between teams at Loom? How are decisions made? 
 
-I want to hear some stories that encapsulate your definition of 'weird'. 
+I want to hear some stories that encapsulate your definition of 'weird'.
 
 ## Embrace the Weird
 
