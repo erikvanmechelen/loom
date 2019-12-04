@@ -4,7 +4,9 @@ If you only do one thing on this page, [watch this video](https://www.loom.com/s
 
 <div style="position: relative; padding-bottom: 56.33802816901409%; height: 0;"><iframe src="https://www.loom.com/embed/47286cf8181f4a0cab0121d83bf92445" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Consensus creative writing advice is "Show, don't tell" but in many cases--business, for one--show AND tell is superior. 
+## When Conventions Aren't Applicable
+
+Conventional creative writing advice is "Show, don't tell" but in many cases--business, for one--show AND tell is superior. 
 
 When I'm asked why I use Loom, I answer: Because Loom helps me show and tell. 
 
