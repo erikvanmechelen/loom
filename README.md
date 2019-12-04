@@ -1,10 +1,23 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
-First off. Congrats on the Series B. It definitely seems like Loom is in a good position to make communication more human.
+Consensus creative writing advice is "Show, don't tell" but in many cases--business, for one--show AND tell is superior. 
 
-For over 2.5 years Loom has improved my workflow by saving time and making communication at work fun! The core product and the pro features have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called Octalysis Prime. With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. 
+When I'm asked why I use Loom, I answer: Because Loom helps me show and tell. 
 
-As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech ... make Loom what it could be. Everything it can be. 
+Information passes from me to my audience more efficiently and more persuasively.
+
+Now that I've shared how I see Loom as a customer, let's move on. CONGRATS on the Series B. It definitely seems like Loom is in a good position to make communication more human, at scale.
+
+For over 2.5 years Loom has improved my workflow by saving time and making communication at work fun! The core product and the pro features have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called Octalysis Prime. With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. 
+
+As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech ... make Loom what it could be. Everything it can be. If a strong PM combines customer-focused design, business acumen, and technical knowledge, I lead with the first two and am eager to acquire the third.
+
+PUT this later, .. 
+Describe what Octalysis Prime is built on? (maybe bring that in later, in the performance section)
+
+I read with great pleasure Vinay's discussion of performance and reliability. 
+
+
 
 Loom describes itself this way: A new kind of work communication tool that helps you get your message across through instantly shareable video.
 
