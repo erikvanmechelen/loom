@@ -26,7 +26,7 @@ As a PM with Loom, I believe my interpersonal skills, ability to create producti
 
 ### The Challenges Loom Faces, And Why I'm Energized
 
-Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to](https://vimeo.com/259389911/c56dfaac57), communicate with, and continually help our members reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
+Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to members](https://vimeo.com/259389911/c56dfaac57), communicate our roadmap, and continually help them reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
 
 Here's an important question: Can we improve our conversion of freemium members to premium subscription members?
 
@@ -62,7 +62,9 @@ I reviewed these public resources:
 
 So far, I've personally used Loom for: 
 
-Community Updates | OP SOMETHING A Udemy Course | 
+[Announcing Design Challenges](https://www.loom.com/share/2c284c5d81fc46a89142098c7d2a199a) | [OP Strategy](https://www.loom.com/share/f8f21b6de1ad472290192a2c1d211801) | [Unboxing Diplomacy Books!](https://www.loom.com/share/ba4ab63d4d05491096aa955695d2d400) | [My Udemy Course](https://www.udemy.com/course/diplomacy-tactics/)
+
+<div style="position: relative; padding-bottom: 48.1283422459893%; height: 0;"><iframe src="https://www.loom.com/embed/f8f21b6de1ad472290192a2c1d211801" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Embrace the Weird
 
