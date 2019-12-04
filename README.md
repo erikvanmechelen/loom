@@ -24,7 +24,7 @@ With Loom, it's easier than ever to align with the CEO, the Head of Marketing, D
 
 As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech will put us on pace to scale Loom to our expectations.
 
-### The Challenges Loom Faces, And Why I'm Energized
+### The Challenge Loom Faces, And Why I'm Energized
 
 Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to members](https://vimeo.com/259389911/c56dfaac57), communicate our roadmap, and continually help them reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
 
