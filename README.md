@@ -26,7 +26,7 @@ As a PM with Loom, I believe my interpersonal skills, ability to create producti
 
 ### The Challenges Loom Faces, And Why I'm Energized
 
-Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to listen to, communicate with, and continually help our members reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out.
+Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to](https://vimeo.com/259389911/c56dfaac57), communicate with, and continually help our members reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out.
 
 Here's an important question: Can we improve our conversion of freemium members to premium subscription members?
 
@@ -53,6 +53,16 @@ How does Loom approach product? Which workflows are working? I sense that Loom a
 What is the current relationship between teams at Loom? How are decisions made? 
 
 I want to hear some stories that encapsulate your definition of 'weird'.
+
+## For Reference
+
+I reviewed these public resources: 
+
+[The PM Job](https://jobs.lever.co/useloom/b7066f2b-fdde-4baf-a1a6-0c23a78f0c97) | [Product Roadmap](https://portal.productboard.com/useloom/1-loom-s-product-roadmap/tabs/3-coming-soon) | [Vinay's Good Night Sleep](https://www.notion.so/Infrastructure-at-Loom-A-Good-Night-s-Sleep-162c5dafcab344f584d68cead9f9c06f) | [Behind the Scenes](https://www.loom.com/blog/behind-the-scenes-building-loom-for-desktop/) | [Lessons Learned](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) 
+
+So far, I've personally used Loom for: 
+
+Community Updates | OP SOMETHING A Udemy Course | 
 
 ## Embrace the Weird
 
