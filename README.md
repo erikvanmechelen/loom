@@ -12,6 +12,8 @@ and bring back its humanity
 
 bring human back in..
 
+Already used by over 1.8 million people at over 50,000 companies. Impressive.
+
 Loom has great potential and its team is proven. 
 
 Having read almost everything that is public about Loom on the net, I like: 
