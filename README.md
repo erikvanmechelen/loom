@@ -12,6 +12,35 @@ For over 2.5 years Loom has improved my workflow by saving time and making commu
 
 As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech ... make Loom what it could be. Everything it can be. If a strong PM combines customer-focused design, business acumen, and technical knowledge, I lead with the first two and am eager to acquire the third.
 
+### The Challenges Loom Faces, And Why I'm Energized
+
+Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to listen to, communicate with, and continually help our members reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year.
+
+Our next step is improving our conversion of freemium members to premium subscription members. 
+
+This will be an important challenge for Loom to tackle as well. 
+
+Loom is a great product, but companies will ask themselves why they should pay for something that already works, and is currently free. 
+
+But it's 10x better than email! Maybe. 
+
+Having reviewed the Product Roadmap, I believe that Loom--with pro and enterprise features--will be 10x better than email, and a necessary addition to any company serious about communicating effectively in the next decade.
+
+I don't think Loom as is TODAY is there quite yet. And Loom isn't short of competitors who could make copycats or their own versions of video-based communication.
+
+Having used Loom for 2.5 years, I feel comfortable as a user. I have some design ideas, some business ideas, and I'm curious to learn more about the technology stack and how product is mapped and delivered at Loom. It would by a large margin be my biggest challenge yet. But for a product I'm passionate about, in a space I'm passionate about--communication at work--and for a company with A+ people surrounding me, I know I'll rise to it. 
+
+After all, there are principles that guide me: .. .. .. . . .
+
+
+
+But if I learned anything from soccer...got to take your chance to shoot. 
+
+one simple video, talking about the challenges - put on gray sweatshirt
+
+get to know me at the end...
+
+
 PUT this later, .. 
 Describe what Octalysis Prime is built on? (maybe bring that in later, in the performance section)
 
