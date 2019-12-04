@@ -1,5 +1,7 @@
 ## Welcome to Erik van Mechelen's Loom Product Review
 
+to style it, feel free to use inline css <span style="color:red">let's go</span>
+
 [This Folder](https://loom.com/share/folder/d198ed4f3a874c698419309a424eec02) contains all the Looms I made for my product review.
 
 After the Product Review, Roadmap, etc. etc., I share a few thoughts about why I might be the best person for this role and also to fit into your existing team at Loom
@@ -32,7 +34,8 @@ end sample
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/df08890762784498a86d60e66a6d37f3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-optional part 4 there...
+Note: I am right-handed despite appearing to shoot lefty in this video. ability to reverse perspective -- so that I don't decieve people thinking I am left-handed at pool. Or #jumpdown id = tweaks I'd like to see
+
 
 ## Resume section (hint at and then put at the end!) use internal links, if they want to jump there! with # hashtags
 
@@ -77,6 +80,17 @@ these three come together as a PM
 
 make some interesting comments. 
 
+## Some more here...(Check notes I took on the product management course)
+
+..
+
+## Some more here...
+
+..
+
+## Small Tweaks and Features I'd like
+
+ability to reverse perspective -- so that I don't decieve people thinking I am left-handed at pool. 
 
 
 You can use the [editor on GitHub](https://github.com/erikvanmechelen/loom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
