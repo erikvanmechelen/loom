@@ -18,7 +18,11 @@ end sample
 
 [A view of the Minneapolis skyline](https://www.loom.com/share/bb371925bf9b4e2688c043f6fc0a049e) 
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/bb371925bf9b4e2688c043f6fc0a049e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 [3 Things I Love About Loom](https://www.loom.com/share/df08890762784498a86d60e66a6d37f3) (and why I've used it for 2.5 years)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/df08890762784498a86d60e66a6d37f3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 optional part 4 there...
 
