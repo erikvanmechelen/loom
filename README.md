@@ -64,6 +64,7 @@ So far, I've personally used Loom for:
 
 [Announcing Design Challenges](https://www.loom.com/share/2c284c5d81fc46a89142098c7d2a199a) | [OP Strategy](https://www.loom.com/share/f8f21b6de1ad472290192a2c1d211801) | [Unboxing Diplomacy Books!](https://www.loom.com/share/ba4ab63d4d05491096aa955695d2d400) | [My Udemy Course](https://www.udemy.com/course/diplomacy-tactics/)
 
+
 <div style="position: relative; padding-bottom: 48.1283422459893%; height: 0;"><iframe src="https://www.loom.com/embed/f8f21b6de1ad472290192a2c1d211801" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Embrace the Weird
