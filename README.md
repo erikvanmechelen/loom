@@ -24,6 +24,8 @@ Loom has improved my workflow by saving time and making communication at work fu
 
 With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant representing the voice of hundreds of users and developing requirements in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. Seeing how comfortable I was, my manager selected me to rep our 50-person team in a larger cross-functional working group.
 
+Of Loom's many use cases, I've enjoyed [making announcements](https://www.loom.com/share/2c284c5d81fc46a89142098c7d2a199a), [creating strategy guides](https://www.loom.com/share/f8f21b6de1ad472290192a2c1d211801), and [discussing our freemium model](https://www.loom.com/share/77ba1be43f084d938a98bb05c1e2b2ca). 
+
 Now that I've shared my perspective as a Loom customer, let's move on to discuss the product roadmap and how the PM role for the core platform--PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
 
 ## The Challenge Loom Faces, And Why I'm Energized
