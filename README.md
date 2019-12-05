@@ -22,7 +22,7 @@ Now that I've shared my perspective as customer, let's move on to discuss the pr
 
 First, off, CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
 
-### The Challenge Loom Faces, And Why I'm Energized
+## The Challenge Loom Faces, And Why I'm Energized
 
 Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to members](https://vimeo.com/259389911/c56dfaac57), communicate our roadmap, and continually help them reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
 
