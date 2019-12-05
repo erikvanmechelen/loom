@@ -16,7 +16,7 @@ Said another way: With Loom, information passes from me to my audience more effi
 
 Loom has improved my workflow by saving time and making communication at work fun! The core product and the [pro features](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called [Octalysis Prime](https://island.octalysisprime.com/#!/signup). 
 
-With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. 
+With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant representing the voice of hundreds of users and developing requirements in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. 
 
 Now that I've shared my perspective as customer, let's move on to discuss the product roadmap and how the PM role for the core platform --PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
 
