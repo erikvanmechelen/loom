@@ -1,6 +1,6 @@
 ## Let's Make Audacious Goals a Reality
 
-If you only have a few minutes, consider watching [this video on prioritizing the Product Roadmap](https://www.loom.com/share/3f83beb7eb8c46d683b98db1e9cfd834).
+If you only have a few minutes, consider watching [this video on prioritizing the Product Roadmap](https://www.loom.com/share/3f83beb7eb8c46d683b98db1e9cfd834). 
 
 <div style="position: relative; padding-bottom: 51.873198847262245%; height: 0;"><iframe src="https://www.loom.com/embed/3f83beb7eb8c46d683b98db1e9cfd834" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
