@@ -1,6 +1,6 @@
 ## Let's Make Audacious Goals a Reality
 
-First, off, congrats on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale. 
+First, off, congrats on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.  
 
 I'd love to join as [the PM for the core platform](https://jobs.lever.co/useloom/b7066f2b-fdde-4baf-a1a6-0c23a78f0c97).
 
