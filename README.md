@@ -12,17 +12,15 @@ But in business, showing AND telling is best.
 
 That's why I've been using Loom for almost three years. 
 
-Said another way: Information passes from me to my audience more efficiently and more persuasively. 
-
-Now that I've shared how I see Loom as a customer, let's move on. 
-
-CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
+Said another way: With Loom, information passes from me to my audience more efficiently and more persuasively. 
 
 Loom has improved my workflow by saving time and making communication at work fun! The core product and the [pro features](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called [Octalysis Prime](https://island.octalysisprime.com/#!/signup). 
 
 With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. 
 
-As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech will put us on pace to scale Loom to our expectations.
+Now that I've shared my perspective as customer, let's move on to discuss the product roadmap and how the PM role for the core platform --PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
+
+First, off, CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
 
 ### The Challenge Loom Faces, And Why I'm Energized
 
@@ -43,6 +41,8 @@ This said, I don't think Loom as instantiated TODAY is there quite yet. And Loom
 Helping Loom deliver would by a large margin be my biggest challenge yet. But for a product I'm passionate about, in a space I'm passionate about--communication at work--and for a company with A+ people surrounding me, I know I'll rise to it. 
 
 From my read of your posting and from my take on your culture, you're looking for someone who can own the role from Day 1, but who is also coachable, and finally, a curious and weird individual who makes other people better.
+
+As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech will put us on pace to scale Loom to our expectations.
 
 Let's make this audacious goal a reality.
 
