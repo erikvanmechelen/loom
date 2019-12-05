@@ -4,7 +4,7 @@ If you only have a few minutes, consider watching [this video on prioritizing th
 
 <div style="position: relative; padding-bottom: 51.873198847262245%; height: 0;"><iframe src="https://www.loom.com/embed/3f83beb7eb8c46d683b98db1e9cfd834" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-For all Looms shared on this page, check out [this folder](https://loom.com/share/folder/d198ed4f3a874c698419309a424eec02).
+For all Looms shared on this page, check out [this folder](https://loom.com/share/folder/d198ed4f3a874c698419309a424eec02). 
 
 ## When Conventions Aren't Applicable
 
