@@ -54,7 +54,7 @@ Let's make [this audacious goal a reality](https://www.loom.com/share/47286cf818
 
 ## A Few Questions
 
-What innovation patent is Joe speaking about in this video to Joshua? https://www.loom.com/use-cases/leadership
+What innovation patent is Joe speaking about in [this video to Joshua](https://www.loom.com/use-cases/leadership)?
 
 How does Loom approach product? Which workflows have you found effective? I sense that Loom approaches Product cross-functionally. Can you share more?
 
