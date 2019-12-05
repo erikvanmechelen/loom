@@ -44,7 +44,7 @@ From my read of your posting and from my take on your culture, you're looking fo
 
 As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech will put us on pace to scale Loom to our expectations.
 
-Let's make this audacious goal a reality.
+Let's make this audacious goal a reality. 
 
 ## A Few Questions
 
