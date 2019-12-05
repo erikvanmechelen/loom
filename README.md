@@ -38,7 +38,7 @@ Loom is a great product, but companies will ask themselves why they should pay f
 
 "But it's 10x better than email!" Maybe. 
 
-Having reviewed the Product Roadmap, I believe that Loom--with pro and enterprise features--will be 10x better than email, and a necessary addition to any company serious about communicating effectively in the next decade.
+Having reviewed the Product Roadmap, I believe that Loom--with pro and enterprise features--will be 10x better than email, and a necessary addition to any company serious about communicating effectively in the next decade. 
 
 This said, I don't think Loom as instantiated TODAY is there quite yet. And Loom isn't short of competitors who could make copycats or their own versions of video-based communication.
 
