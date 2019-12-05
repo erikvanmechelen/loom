@@ -18,17 +18,17 @@ Said another way: With Loom, information passes from me to my audience more effi
 
 Loom has improved my workflow by saving time and making communication at work fun! The core product and the [pro features](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called [Octalysis Prime](https://island.octalysisprime.com/#!/signup). 
 
-With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant representing the voice of hundreds of users and developing requirements in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. 
+With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant representing the voice of hundreds of users and developing requirements in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. Seeing how comfortable I was, my manager selected me to rep our 50-person team in a larger cross-functional working group.
 
-Now that I've shared my perspective as customer, let's move on to discuss the product roadmap and how the PM role for the core platform --PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
+Now that I've shared my perspective as a Loom customer, let's move on to discuss the product roadmap and how the PM role for the core platform --PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
 
 First, off, CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
 
 ## The Challenge Loom Faces, And Why I'm Energized
 
-Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to members](https://vimeo.com/259389911/c56dfaac57), communicate our roadmap, and continually help them reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
+Recently, we transitioned Octalysis Prime to a freemium model. Since I'm responsible for Community first, and then Product, it was on me to [listen to members](https://vimeo.com/259389911/c56dfaac57), communicate [our roadmap](https://www.loom.com/share/cddbe68c2ec84bd98185be23f4f030fd), and continually help them reach their goals. Meanwhile, I helped the team efficiently execute on our go-to-market strategy for freemium. In the last two months we had our lowest churn in the past year and the path is set for freemium to play out. 
 
-Here's an important question: Can we improve our conversion of freemium members to premium subscription members?
+Here's an important question: Can we improve our conversion of freemium members to premium monthly/annual subscriptions?
 
 This will be an important challenge for Loom to tackle as well. 
 
@@ -61,6 +61,18 @@ What is the current relationship between teams at Loom? How are decisions made?
 How has the decision to raise additional venture capital affected Loom's goals?
 
 I want to hear some stories that encapsulate your definition of 'weird'.
+
+## Understanding Loom
+
+In this section, I'm simply sharing a few thoughts out loud as I looked more deeply into Loom. 
+
+[Impact, Effort, Probability](https://www.loom.com/share/aed18281159a42d2a9ea1e32b8c3a942)
+
+<div style="position: relative; padding-bottom: 51.798561151079134%; height: 0;"><iframe src="https://www.loom.com/embed/aed18281159a42d2a9ea1e32b8c3a942" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+[How we think about Product at Octalysis Prime](https://www.loom.com/share/cddbe68c2ec84bd98185be23f4f030fd)
+
+<div style="position: relative; padding-bottom: 46.45161290322581%; height: 0;"><iframe src="https://www.loom.com/embed/cddbe68c2ec84bd98185be23f4f030fd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## For Reference
 
@@ -110,7 +122,11 @@ I reviewed these public resources:
 
 So far, I've personally used Loom for: 
 
-[Announcing Design Challenges](https://www.loom.com/share/2c284c5d81fc46a89142098c7d2a199a) | [OP Strategy](https://www.loom.com/share/f8f21b6de1ad472290192a2c1d211801) | [Unboxing Diplomacy Books!](https://www.loom.com/share/ba4ab63d4d05491096aa955695d2d400) | [My Udemy Course](https://www.udemy.com/course/diplomacy-tactics/)
+[Announcing Design Challenges](https://www.loom.com/share/2c284c5d81fc46a89142098c7d2a199a)  
+[OP Strategy](https://www.loom.com/share/f8f21b6de1ad472290192a2c1d211801)  
+[Unboxing Diplomacy Books!](https://www.loom.com/share/ba4ab63d4d05491096aa955695d2d400)  
+[My Udemy Course](https://www.udemy.com/course/diplomacy-tactics/)  
+Inaki Feedback
 
 
 <div style="position: relative; padding-bottom: 48.1283422459893%; height: 0;"><iframe src="https://www.loom.com/embed/f8f21b6de1ad472290192a2c1d211801" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
