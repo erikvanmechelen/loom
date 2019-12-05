@@ -1,6 +1,6 @@
 ## Let's Make Audacious Goals a Reality
 
-First, off, congrats on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
+First, off, congrats on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale. 
 
 If you only have a few minutes, consider watching [this video on prioritizing the Product Roadmap](https://www.loom.com/share/3f83beb7eb8c46d683b98db1e9cfd834). 
 
