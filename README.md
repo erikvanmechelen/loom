@@ -48,6 +48,8 @@ Let's make this audacious goal a reality.
 
 ## A Few Questions
 
+What innovation patent is Joe speaking about in this video to Joshiah? https://www.loom.com/use-cases/leadership
+
 How does Loom approach product? Which workflows are working? I sense that Loom approaches Product cross-functionally. Can you share more?
 
 What is the current relationship between teams at Loom? How are decisions made? 
@@ -57,6 +59,46 @@ How has the decision to raise additional venture capital affected Loom's goals?
 I want to hear some stories that encapsulate your definition of 'weird'.
 
 ## For Reference
+
+Here is a list of people I've work for, worked with, and managed. Some hired me, some coached me, but I learned something from all of them. 
+
+Instead of over-filtering this list, I wanted to demonstrate transparency. I believe I've built strong relationships with a variety of people, in and outside work, yet I'm open to the possibility that any one of these people may have interesting or even negative things to say about me. As I learned from Charlie Peters, all characters and all people have flaws, and so much the better if you begin to learn what mine are if we are to work together and thrive. 
+
+Charlie Peters - former #2 at Emerson - linked in... sent me to the Philippines (internship) and shared his book, Hyperformations, which came of NAMEOFBUSINESSGUY asking him to talk about his practical experience. (Was groomsman in his son's wedding, too.) 
+
+people who hired me
+yu-kai chou
+
+
+people i work with
+tiago
+leo
+
+
+
+people i worked with
+-dan phan, digital education and ... thelatemajority, portugal
+
+
+
+people i did probono work for
+
+people who referred me business
+-andrew warner -chatbot 
+
+
+good friends
+
+great friends
+
+people I am investing in - 'who's your 12?' 
+jake langenfeld (data visualization at Target)
+..
+..
+coaches, 
+trainers - athleticism important to my energy levels and creativity. can work long hours effectively because of my top athletic condition. have a nutrition coach and a writing coach because I believe in continously learning and in accountability partners
+konnor, rob, jo, leah, jenna, etc
+
 
 I reviewed these public resources: 
 
