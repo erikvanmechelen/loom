@@ -20,7 +20,7 @@ CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-
 
 Loom has improved my workflow by saving time and making communication at work fun! The core product and the [pro features](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) have enhanced the effectiveness of my product and community work with my startup, which has built a gamification education service called [Octalysis Prime](https://island.octalysisprime.com/#!/signup). 
 
-With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. 
+With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. 
 
 As a PM with Loom, I believe my interpersonal skills, ability to create productive relationships with every individual within the organization, and my balanced attack of design/business/tech will put us on pace to scale Loom to our expectations.
 
