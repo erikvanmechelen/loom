@@ -58,7 +58,7 @@ What innovation patent is Joe speaking about in this video to Joshua? https://ww
 
 How does Loom approach product? Which workflows have you found effective? I sense that Loom approaches Product cross-functionally. Can you share more?
 
-What is the current relationship between teams at Loom? How are decisions made? 
+What is the current relationship between teams at Loom? How are decisions made? How has the team responded to Vinay's departure? 
 
 How has the decision to raise additional venture capital affected Loom's goals?
 
@@ -92,56 +92,7 @@ Here is a list of people I've work for, worked with, and managed. Some hired me,
 
 Instead of over-filtering this list, I wanted to demonstrate transparency. I believe I've built strong relationships with a variety of people, in and outside work, yet I'm open to the possibility that any one of these people may have interesting or even negative things to say about me. As I learned from Charlie Peters, all characters and all people have flaws, and so much the better if you begin to learn what mine are if we are to work together and thrive. 
 
-Charlie Peters - former #2 at Emerson - linked in... sent me to the Philippines (internship) and shared his book, Hyperformations, which came of NAMEOFBUSINESSGUY asking him to talk about his practical experience. (Was groomsman in his son's wedding, too.) 
-
-people who hired me
-yu-kai chou
-
-
-people i work with
-tiago
-leo
-
-
-
-people i worked with
--dan phan, digital education and ... thelatemajority, portugal
-
-
-
-people i did probono work for
-
-people who referred me business
--andrew warner -chatbot 
-
-
-good friends
-
-great friends
-
-people I am investing in - 'who's your 12?' 
-jake langenfeld (data visualization at Target)
-..
-..
-coaches, 
-trainers - athleticism important to my energy levels and creativity. can work long hours effectively because of my top athletic condition. have a nutrition coach and a writing coach because I believe in continously learning and in accountability partners
-konnor, rob, jo, leah, jenna, etc
-
-
-I reviewed these public resources: 
-
-[The PM Job](https://jobs.lever.co/useloom/b7066f2b-fdde-4baf-a1a6-0c23a78f0c97) | [Product Roadmap](https://portal.productboard.com/useloom/1-loom-s-product-roadmap/tabs/3-coming-soon) | [Vinay's Good Night Sleep](https://www.notion.so/Infrastructure-at-Loom-A-Good-Night-s-Sleep-162c5dafcab344f584d68cead9f9c06f) | [Behind the Scenes](https://www.loom.com/blog/behind-the-scenes-building-loom-for-desktop/) | [Lessons Learned](https://www.loom.com/blog/engineering-lessons-shipping-loom-pro/) 
-
-So far, I've personally used Loom for: 
-
-[Announcing Design Challenges](https://www.loom.com/share/2c284c5d81fc46a89142098c7d2a199a)  
-[OP Strategy](https://www.loom.com/share/f8f21b6de1ad472290192a2c1d211801)  
-[Unboxing Diplomacy Books!](https://www.loom.com/share/ba4ab63d4d05491096aa955695d2d400)  
-[My Udemy Course](https://www.udemy.com/course/diplomacy-tactics/)  
-Inaki Feedback
-
-
-<div style="position: relative; padding-bottom: 48.1283422459893%; height: 0;"><iframe src="https://www.loom.com/embed/f8f21b6de1ad472290192a2c1d211801" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+The list will appear here shortly. 
 
 ## Embrace the Weird
 
