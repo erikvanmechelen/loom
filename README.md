@@ -74,6 +74,14 @@ In this section, I'm simply sharing a few thoughts out loud as I looked more dee
 
 <div style="position: relative; padding-bottom: 46.45161290322581%; height: 0;"><iframe src="https://www.loom.com/embed/cddbe68c2ec84bd98185be23f4f030fd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+[Loom for my Dad](https://www.loom.com/share/5af66da39070484ebe905b93350e3846)
+
+<div style="position: relative; padding-bottom: 52.249637155297535%; height: 0;"><iframe src="https://www.loom.com/embed/5af66da39070484ebe905b93350e3846" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+[A few Looms I watched in my Activity Feed](https://www.loom.com/share/b19ee7611bb74aa4ac1796a8876c7be3)
+
+<div style="position: relative; padding-bottom: 51.798561151079134%; height: 0;"><iframe src="https://www.loom.com/embed/b19ee7611bb74aa4ac1796a8876c7be3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## For Reference
 
 Here is a list of people I've work for, worked with, and managed. Some hired me, some coached me, but I learned something from all of them. 
