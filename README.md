@@ -90,5 +90,3 @@ What follows are a few short videos I made which speak for themselves.
 
 I appreciate you taking the time to review my thoughts and questions about the PM role. 
 
-
-
