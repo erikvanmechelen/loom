@@ -1,5 +1,7 @@
 ## Let's Make Audacious Goals a Reality
 
+First, off, congrats on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
+
 If you only have a few minutes, consider watching [this video on prioritizing the Product Roadmap](https://www.loom.com/share/3f83beb7eb8c46d683b98db1e9cfd834). 
 
 <div style="position: relative; padding-bottom: 51.873198847262245%; height: 0;"><iframe src="https://www.loom.com/embed/3f83beb7eb8c46d683b98db1e9cfd834" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -20,9 +22,7 @@ Loom has improved my workflow by saving time and making communication at work fu
 
 With Loom, it's easier than ever to align with the CEO, the Head of Marketing, Dev, and fellow PM, especially given our distribution between São Paulo, California, and Minnesota. Prior to working on Octalysis Prime, I designed an iPhone game and served as a Business Process Consultant representing the voice of hundreds of users and developing requirements in Target's Merchandise Planning Systems Development team. It was there at age 25, already 7 years ago (gasp!), that I gave my first major talk to a big group, our 250-person software team. Seeing how comfortable I was, my manager selected me to rep our 50-person team in a larger cross-functional working group.
 
-Now that I've shared my perspective as a Loom customer, let's move on to discuss the product roadmap and how the PM role for the core platform --PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
-
-First, off, CONGRATS on [the Series B](https://www.loom.com/blog/why-we-raised-a-30m-series-b-from-sequoia/). It definitely seems like Loom is in a good position to make communication more human, at scale.
+Now that I've shared my perspective as a Loom customer, let's move on to discuss the product roadmap and how the PM role for the core platform--PC, Mac, and Chrome Extensions, and web platform--fits into the picture. 
 
 ## The Challenge Loom Faces, And Why I'm Energized
 
