@@ -25,4 +25,3 @@ Building relationships is really important to me, so I love [how Loom approaches
 ## Thank you
 
 I appreciate you taking the time to review my thoughts and questions about the PM role.   
-
