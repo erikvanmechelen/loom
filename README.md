@@ -6,6 +6,10 @@ I'd love to join as [the PM for the core platform](https://jobs.lever.co/useloom
 
 <div style="position: relative; padding-bottom: 56.33802816901409%; height: 0;"><iframe src="https://www.loom.com/embed/0269e153400f4edd92130a139e7454a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+A few additional details: 
+
+<div style="position: relative; padding-bottom: 56.33802816901409%; height: 0;"><iframe src="https://www.loom.com/embed/679e0887429e45fcad4bf504cd339049" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## A Few Questions
 
